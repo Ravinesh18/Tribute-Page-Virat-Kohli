@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin: 12px 23px;
+    padding: 12px 23px;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12%;
+}
+
+footer {
+    background-color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-content p{
+    text-align: center;
+    color: black;
+    font-size: 16px;
+}
+
+
+
